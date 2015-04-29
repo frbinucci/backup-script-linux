@@ -1,4 +1,4 @@
- backup-script-linux
+# backup-script-linux
 
 ##Nome
 
@@ -60,6 +60,5 @@ Lo script stamperà una serie di righe, ognuna delle quali contenente il nome de
 ###STDERR
 
 Lo script stamperà una serie di righe nel STDERR, ognuna delle quali contenente il nome del file durante la cui copia sono stati riscontrati dei problemi.
-
 
 
